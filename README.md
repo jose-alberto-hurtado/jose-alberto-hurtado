@@ -34,6 +34,6 @@
 ---
 
 ## 📬 Cómo contactarme
-- 📧 **Email**: jose.alberto.hurtado@example.com *(Reemplaza con tu correo real)*
+- 📧 **Email**: josealberto1829@gmail.com(josealberto1829@gmail.com)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/josé-alberto-hurtado-echeverría-77910a319/)
 
