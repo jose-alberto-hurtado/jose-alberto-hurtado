@@ -34,6 +34,9 @@
 ---
 
 ## 📬 Cómo contactarme
-- 📧 **Email**: josealberto1829@gmail.com(josealberto1829@gmail.com)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/josé-alberto-hurtado-echeverría-77910a319/)
+
+- **Correo**: [josealberto1829@gmail.com](mailto:josealberto1829@gmail.com)
+- **LinkedIn**: [José Alberto Hurtado Echeverría](https://www.linkedin.com/in/jos%C3%A9-alberto-hurtado-echeverr%C3%ADa-77910a319/)
+
+
 
